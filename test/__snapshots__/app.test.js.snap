@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`directory Tree making operations LIST 1`] = `
+"LIST 
+   root
+     fruits
+       apples
+         fuji
+     vegetables
+     grains"
+`;
+
+exports[`directory Tree making operations LIST 2`] = `
+"LIST 
+   root
+     foods
+       grains
+       fruits
+         apples
+           fuji
+       vegetables
+         squash"
+`;
+
+exports[`directory Tree making operations LIST 3`] = `
+"LIST 
+   root
+     foods
+       grains
+       fruits
+       vegetables
+         squash"
+`;
